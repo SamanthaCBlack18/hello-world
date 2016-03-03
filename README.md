@@ -1,2 +1,3 @@
 # hello-world
 How does this work? Am I doing it right? I have no idea... 
+Just getting started on another useful thing. THougth it was time to become part of the community and understand how it worked I guess. 
